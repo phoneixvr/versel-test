@@ -11,9 +11,9 @@ import os
 class GameInfo:
     def __init__(self):
         self.TitleId: str = "1001EA"
-        self.SecretKey: str = "OCOTXP8MXXMWQRY4PMGNSM3AFOT91O9OA6NUH4PEC69D96ZX4P
+        self.SecretKey: str = "OCOTXP8MXXMWQRY4PMGNSM3AFOT91O9OA6NUH4PEC69D96ZX4P"
 
-        self.ApiKey: str = "OC|24752783067660271|7bc4d192a58cdfda0288a1196609dfb1
+        self.ApiKey: str = "OC|24752783067660271|7bc4d192a58cdfda0288a1196609dfb1"
 
         self.DiscordWebhook: str = "https://discord.com/api/webhooks/1382165374853840966/gwoF1KfmJ_VINeRYDkHlVL8HKk2qjcXlZOgHZYhYNJstoeQeD3xmlB0-6kWPQxmW4lil"
 
