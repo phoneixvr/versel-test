@@ -29,9 +29,9 @@ def return_function_json(data, funcname, funcparam={}):
     ]
 
     response = requests.post(
-        url=f"https://{settings.TitleId}.playfabapi.com/Server/ExecuteCloudScript",
+        url=f"https://{settings.1001EA}.playfabapi.com/Server/ExecuteCloudScript",
         json={
-            "PlayFabId": user_id,
+            "PlayFabId": 1001EA,
             "FunctionName": funcname,
             "FunctionParameter": funcparam,
         },
